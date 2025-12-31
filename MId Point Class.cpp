@@ -8,7 +8,7 @@ void midPointCircle(int r, int X, int Y, int cor)
 	d = 1 - r;
 	int h,k;
 	
-	while(x<=y)
+	while(x<=y) 
 	{
 		if(cor=1)
 		{
