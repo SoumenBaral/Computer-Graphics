@@ -2,8 +2,8 @@
 #include<graphics.h>
 #include<dos.h>
 using namespace std;
+ 
 
-void bresenhamCircle(int r, int X, int Y)
 {
 	int x = 0;
 	int y = r;
