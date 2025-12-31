@@ -2,7 +2,7 @@
 #include<graphics.h>
 #include<dos.h>
 using namespace std;
-
+ 
 void bresenhamCircle(int r, int X, int Y, int cor)
 {
 	int x = 0;
