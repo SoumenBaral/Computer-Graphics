@@ -6,7 +6,7 @@
 #include<math.h>
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 void lineDrawDDA(int cor,int Mx,int My, int x1, int y1,int x2,int y2)
 {
     int x,y;
