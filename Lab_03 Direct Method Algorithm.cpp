@@ -4,7 +4,7 @@
 #include <stdio.h> 
 #include <math.h> 
 #include <dos.h>
-
+ 
 int lineDE(int x1, int y1, int x2, int y2){
 	int x = x1;
 	int y = y1;
