@@ -67,7 +67,7 @@ void bresenhamCircle(int r, int X, int Y)
 	
 }
 
-int main()
+
 {
     int X,Y;
     initwindow(400,400,"Bresenham's Circle Drawing'");
