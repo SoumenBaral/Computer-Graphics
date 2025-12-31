@@ -2,7 +2,7 @@
 #include<graphics.h>
 #include<dos.h>
 using namespace std;
-void midPointCircle(int r, int X, int Y, int cor)
+void midPointCircle(int r, int X, int Y, int cor) 
 {
 	int x = 0, y =r,d;
 	d = 1 - r;
