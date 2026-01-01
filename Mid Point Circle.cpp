@@ -4,7 +4,7 @@
 using namespace std;  
 void midPointCircle(int r, int X, int Y, int cor)  
 {
-	int x = 0, y=r, d;
+	int x = 0, y=r, d; 
 	d = 1 - r;
 	int h, k;
 	
