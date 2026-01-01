@@ -1,5 +1,5 @@
 #include<iostream>
-#include<graphics.h>
+#include<graphics.h> 
 #include<dos.h> 
 using namespace std;  
 void midPointCircle(int r, int X, int Y, int cor)  
