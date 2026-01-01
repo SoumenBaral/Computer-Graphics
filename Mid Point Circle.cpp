@@ -1,7 +1,7 @@
 #include<iostream>
 #include<graphics.h>
 #include<dos.h>
-using namespace std;
+using namespace std; 
 void midPointCircle(int r, int X, int Y, int cor)  
 {
 	int x = 0, y=r, d;
